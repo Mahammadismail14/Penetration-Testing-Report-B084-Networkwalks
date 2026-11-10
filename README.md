@@ -205,3 +205,10 @@ All screenshots are stored in the `screenshots/` folder:
 | `6_dnsrecon.png` | DNSRecon output |
 | `7_zenmap_quick_scan.png` | Zenmap quick scan |
 | `8_zenmap_topology.png` | Zenmap topology |
+
+
+
+👤 Author
+Katlapudi Mahammad Ismail B.Tech Cybersecurity | Gates Institute of Technology (2023–2027) Batch B084M | NetworkWalks Academy
+
+linkedin : https://www.linkedin.com/in/muhammad-ismail-03743b387
